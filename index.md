@@ -1,7 +1,4 @@
-# Table of contents:
----
-
-## Posts & How-To's
+-## Posts & How-To's
 
 Example
 
