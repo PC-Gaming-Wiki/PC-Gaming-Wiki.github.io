@@ -24,6 +24,8 @@
   - Allows for extended customization of the desktop wallpaper
  - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
   - Customizable taskbar application
+
+
 - ## Benchmarking / Stress Testing
   - [Furmark](https://geeks3d.com/furmark/)
     - A well known GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
@@ -51,7 +53,5 @@
     - Required to install, or repair windows. Very helpful to have one lying around, just in case. 
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
-  
-[LinktoPlace](## Benchmarking / Stress Testing)
 
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
