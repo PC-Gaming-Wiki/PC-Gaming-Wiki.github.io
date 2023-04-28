@@ -1,11 +1,11 @@
-## Posts & How-To's
+# Posts & How-To's
 
 - How to use DDU -Link (placeholder)
 
 - Surface level PBO guide for ryzen 5000 -Link (Placeholder)
 
-## Helpful Software & Links - All Free to Access and Use
-
+# Helpful Software & Links - All Free to Access and Use
+## Useful Websites
 - [PSU Tier List](https://cultists.network/140/psu-tier-list/)
   - Large tier list for computer power supplies
 - [SSD List - Google Docs](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4)
@@ -22,8 +22,10 @@
   - Widgets on the desktop!
 - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
   - Allows for extended customization of the desktop wallpaper
- - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
-   - Customizable taskbar application
+- [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
+  - Customizable taskbar application
+- [SteamDB](https://steamdb.info/)
+  - A third party tool with vast amounts of information on Steam games as well as historical pricing/player count data
 
 
 - ## Benchmarking / Stress Testing
@@ -53,5 +55,9 @@
     - Required to install, or repair windows. Very helpful to have one lying around, just in case. 
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
-
+  - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
+    - Useful for finding the fastest DNS server for your area, usually Cloudflare (1.1.1.1) and Google (8.8.8.8) are good enough
+  - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+    - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
+  - 
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
