@@ -23,7 +23,7 @@
 - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
   - Allows for extended customization of the desktop wallpaper
  - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
-  - Customizable taskbar application
+   - Customizable taskbar application
 
 
 - ## Benchmarking / Stress Testing
