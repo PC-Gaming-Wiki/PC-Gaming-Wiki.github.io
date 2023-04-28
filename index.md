@@ -6,7 +6,7 @@ Surface level PBO guide for ryzen 5000 - Link (Placeholder)
 ## Helpful Software & Links
 
 - [PSU Tier List](https://cultists.network/140/psu-tier-list/)
-  - Breaks down winners in
+  - Large tier list for computer power supplies
 - [SSD List - Google Docs](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0)
   - Contains most well known consumer SSDs, contains things like DRAM cache, flash type, etc. 
 - [Why UserBench is Unreliable - Youtube](https://www.youtube.com/watch?v=RQSBj2LKkWg)
