@@ -54,4 +54,4 @@
   
 
 
-Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccoemded. 
+Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
