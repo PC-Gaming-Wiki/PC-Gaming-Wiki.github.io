@@ -26,11 +26,11 @@
   - Customizable taskbar application
 - ## Benchmarking / Stress Testing
   - [Furmark](https://geeks3d.com/furmark/)
-    - A well known GPU burn test
+    - A well known GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
     - The free version is the "demo" on steam
   - [Prime95 Download](https://www.guru3d.com/files-details/prime95-download.html)
-    - A well known CPU burn test
+    - A well known CPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
   - MSI Afterburner
     - Link delayed following the MSI source code hack
 - ## Informational Software
@@ -52,6 +52,6 @@
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
   
-
+[LinktoPlace](## Benchmarking / Stress Testing)
 
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
