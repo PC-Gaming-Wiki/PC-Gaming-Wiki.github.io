@@ -39,4 +39,4 @@ Surface level PBO guide for ryzen 5000 - Link (Placeholder)
     - Excellent tools that provide detailed information about your CPU/GPU
 
 
-Note: None of these resources are owned by us. 
+Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccoemded. 
