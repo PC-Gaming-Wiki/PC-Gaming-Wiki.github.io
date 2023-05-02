@@ -69,4 +69,5 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - A powerful and lightweight fan control software for Windows
   - [OpenRGB Downoad](https://openrgb.org/releases.html)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
+
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
