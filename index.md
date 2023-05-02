@@ -15,10 +15,6 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Contains most well known consumer SSDs, contains things like DRAM cache, flash type, etc. 
   - [Why UserBench is Unreliable - Youtube](https://www.youtube.com/watch?v=RQSBj2LKkWg)
     - Yeah, just dont use them, use 3DMark for benchmarking
-  - [Fan Control Software - Github](https://github.com/Rem0o/FanControl.Releases)
-    - A powerful and lightweight fan control software for Windows
-  - [OpenRGB Downoad](https://openrgb.org/releases.html)
-    - RGB control software that attempts to bridge the gap between different RGB ecosystems
   - [SteamDB](https://steamdb.info/)
     - A third party tool with vast amounts of information on Steam games as well as historical pricing/player count data
   - [PCPartPicker](https://pcpartpicker.com/list/)
@@ -69,4 +65,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Allows for extended customization of the desktop wallpaper
   - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
     - Customizable taskbar application
+  - [Fan Control Software - Github](https://github.com/Rem0o/FanControl.Releases)
+    - A powerful and lightweight fan control software for Windows
+  - [OpenRGB Downoad](https://openrgb.org/releases.html)
+    - RGB control software that attempts to bridge the gap between different RGB ecosystems
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
