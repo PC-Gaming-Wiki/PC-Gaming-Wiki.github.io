@@ -58,6 +58,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
   - [Playnite](https://github.com/JosefNemec/Playnite)
     - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
+  - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
+    - Powerful download manager with torrent support and pause/continue downloads
 - ### Customization Software:
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
     - A first-ish party tool (maintained by Microsoft Employees), that adds numerous different featuers
