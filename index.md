@@ -39,7 +39,7 @@
   - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
     - Primarily for monitoring temperatures, clock speeds, etc
   - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
-    - One of the best driver installers out there
+    - A free driver installer that seems to work well, installing the (few) drivers you need manually is still reccomended 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
     - Excellent tools that provide detailed information about your CPU/GPU
 - ### Other Software:
