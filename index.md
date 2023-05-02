@@ -16,27 +16,21 @@
     - A powerful and lightweight fan control software for Windows
   - [OpenRGB Downoad](https://openrgb.org/releases.html)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
-  - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
-    - A first-ish party tool (maintained by Microsoft Employees), that adds numerous different featuers
-  - [Rainmeter](https://www.rainmeter.net/)
-    - Widgets on the desktop!
-  - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
-    - Allows for extended customization of the desktop wallpaper
-  - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
-    - Customizable taskbar application
   - [SteamDB](https://steamdb.info/)
     - A third party tool with vast amounts of information on Steam games as well as historical pricing/player count data
-
-
+  - [PCPartPicker](https://pcpartpicker.com/list/)
+    - Powerful PC part compatability and price comparing tool, use the sharable link to share your PC
 - ### Benchmarking / Stress Testing:
   - [Furmark](https://geeks3d.com/furmark/)
     - A well known GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
-    - The free version is the "demo" on steam
+    - The free version is the "demo" on steam, CPU and GPU benchmark
   - [Prime95 Download](https://www.guru3d.com/files-details/prime95-download.html)
     - A well known CPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
-  - MSI Afterburner
-    - Link delayed following the MSI source code hack
+  - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+    - Overclocking tool for graphics cards, EVGA Precision X1 reccomended for EVGA cards
+  - [Cinebench R23](https://www.maxon.net/en/downloads/cinebench-r23-downloads)
+    - CPU Benchmarking tool
 - ### Informational Software:
   - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
     - One of the best S.M.A.R.T monitoring tools.
@@ -61,4 +55,14 @@
     - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
   - [Playnite](https://github.com/JosefNemec/Playnite)
     - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
+- ### Customization Software:
+  - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
+    - A first-ish party tool (maintained by Microsoft Employees), that adds numerous different featuers
+  - [Rainmeter](https://www.rainmeter.net/)
+    - Widgets on the desktop!
+  - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
+    - Allows for extended customization of the desktop wallpaper
+  - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
+    - Customizable taskbar application
+  - 
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
