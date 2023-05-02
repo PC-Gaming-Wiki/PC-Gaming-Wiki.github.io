@@ -64,5 +64,4 @@
     - Allows for extended customization of the desktop wallpaper
   - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
     - Customizable taskbar application
-  - 
 Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
