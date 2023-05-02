@@ -1,8 +1,11 @@
+Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
+
+
 # Posts & How-To's
 
-- How to use DDU -Link (placeholder)
+- How to use DDU - Link (placeholder)
 
-- Surface level PBO guide for ryzen 5000 -Link (Placeholder)
+- Surface level PBO guide for ryzen 5000 - Link (Placeholder)
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
