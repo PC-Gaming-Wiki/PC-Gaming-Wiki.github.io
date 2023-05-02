@@ -43,9 +43,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Excellent tools that provide detailed information about your CPU/GPU
 - ### Other Software:
   - [Ventoy](https://www.ventoy.net/en/download.html)
-    - Immensely useful tool for creating bootable USB drives with >1 disk image
+    - Useful tool for creating bootable USB drives with >1 disk image
   - [MediaCreationTool - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
-    - Required to install, or repair windows. Very helpful to have one lying around, just in case. 
+    - Required to install, or repair windows. Helpful to have one lying around, just in case. 
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
   - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
@@ -58,7 +58,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Powerful download manager with torrent support and pause/continue downloads
 - ### Customization Software:
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
-    - A first-ish party tool (maintained by Microsoft Employees), that adds numerous different featuers
+    - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different featuers
   - [Rainmeter](https://www.rainmeter.net/)
     - Widgets on the desktop!
   - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
