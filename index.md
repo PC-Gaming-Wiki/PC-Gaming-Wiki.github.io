@@ -30,6 +30,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Overclocking tool for graphics cards, EVGA Precision X1 reccomended for EVGA cards
   - [Cinebench R23](https://www.maxon.net/en/downloads/cinebench-r23-downloads)
     - CPU Benchmarking tool
+  - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
+    - CPU and GPU benchmarking tool, free download as a "demo" on steam. Use Time Spy for modern GPUs. 
 - ### Informational Software:
   - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
     - One of the best S.M.A.R.T monitoring tools.
