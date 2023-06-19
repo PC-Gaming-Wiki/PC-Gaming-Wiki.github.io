@@ -71,7 +71,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Customizable taskbar application
   - [Fan Control Software - Github](https://github.com/Rem0o/FanControl.Releases)
     - A powerful and lightweight fan control software for Windows
-  - [OpenRGB Downoad](https://openrgb.org/releases.html)
+  - [OpenRGB](https://openrgb.org)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
 
-Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
+Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page. 
