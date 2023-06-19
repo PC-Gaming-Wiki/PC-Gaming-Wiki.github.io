@@ -58,6 +58,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
   - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
     - Powerful download manager with torrent support and pause/continue downloads
+  - [WizTree](https://diskanalyzer.com/)
+    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat. 
 - ### Customization Software:
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
     - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different featuers
@@ -72,4 +74,4 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [OpenRGB Downoad](https://openrgb.org/releases.html)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
 
-Note: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
+Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. 
