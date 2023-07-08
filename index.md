@@ -54,6 +54,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Useful for finding the fastest DNS server for your area, usually Cloudflare (1.1.1.1) and Google (8.8.8.8) are good enough
   - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
     - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
+  - [UWPHook - GitHub](https://github.com/BrianLima/UWPHook)
+    - Allows you to add Windows Store apps to your Steam library
   - [Playnite](https://github.com/JosefNemec/Playnite)
     - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
   - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
@@ -69,9 +71,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Allows for extended customization of the desktop wallpaper
   - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
     - Customizable taskbar application
-  - [Fan Control Software - Github](https://github.com/Rem0o/FanControl.Releases)
+  - [Fan Control Software - GitHub](https://github.com/Rem0o/FanControl.Releases)
     - A powerful and lightweight fan control software for Windows
   - [OpenRGB](https://openrgb.org)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
 
-Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is reccomended for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page. 
+Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
