@@ -1,11 +1,21 @@
 Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
 
+### Table of Contents:
+- [Websites](https://pc-gaming-wiki.github.io/#websites)
+- [Benchmarking / Stress Testing](https://pc-gaming-wiki.github.io/#benchmarking--stress-testing)
+- [Informational](https://pc-gaming-wiki.github.io/#informational-software)
+- [Other](https://pc-gaming-wiki.github.io/#other-software)
+- [USB Booting / Imaging](https://pc-gaming-wiki.github.io/#usb-booting--stress-testing)
+- [Customization](https://pc-gaming-wiki.github.io/#customization-software)
+
 
 # Posts & How-To's
 
 - How to use DDU - Link (placeholder)
 
 - Surface level PBO guide for ryzen 5000 - Link (Placeholder)
+
+- Medicat tutorial - Link (Placeholder)
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
@@ -44,10 +54,6 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
     - Excellent tools that provide detailed information about your CPU/GPU
 - ### Other Software:
-  - [Ventoy](https://www.ventoy.net/en/download.html)
-    - Useful tool for creating bootable USB drives with >1 disk image
-  - [MediaCreationTool - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
-    - Required to install, or repair windows. Helpful to have one lying around, just in case. 
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
   - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
@@ -61,7 +67,16 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
     - Powerful download manager with torrent support and pause/continue downloads
   - [WizTree](https://diskanalyzer.com/)
-    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat. 
+    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
+- ### USB Booting / Imaging
+  - [Medicat](https://medicatusb.com/)
+    - An insane 20GB collecion of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out
+  - [Netboot.xyz](https://netboot.xyz/)
+    - Can be used to network boot ISOs (yes, including ventoy ISOs)
+  - [Ventoy](https://www.ventoy.net/en/download.html)
+    - Useful tool for creating bootable USB drives with >1 disk image
+  - [MediaCreationTool - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+    - Required to install, or repair windows. Helpful to have one lying around, just in case. 
 - ### Customization Software:
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
     - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different featuers
@@ -75,5 +90,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - A powerful and lightweight fan control software for Windows
   - [OpenRGB](https://openrgb.org)
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
+  - [Signal RGB](https://signalrgb.com/)
+    - Same as OpenRGB, may or may not be more reliable. YMMV
 
 Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
