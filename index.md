@@ -5,7 +5,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
 - [Benchmarking / Stress Testing](https://pc-gaming-wiki.github.io/#benchmarking--stress-testing)
 - [Informational](https://pc-gaming-wiki.github.io/#informational-software)
 - [Other](https://pc-gaming-wiki.github.io/#other-software)
-- [USB Booting / Imaging](https://pc-gaming-wiki.github.io/#usb-booting--stress-testing)
+- [USB Booting / Imaging](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
 - [Customization](https://pc-gaming-wiki.github.io/#customization-software)
 
 
