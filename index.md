@@ -15,7 +15,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
 
 - Surface level PBO guide for ryzen 5000 - Link (Placeholder)
 
-- Medicat tutorial - Link (Placeholder)
+- Medicat tutorial - [Link](https://pc-gaming-wiki.github.io/tutorials/medicat)
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
