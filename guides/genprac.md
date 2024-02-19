@@ -12,5 +12,13 @@ Maintence is not something that should be obsessed over, but kept in mind. Overd
 
 ### Things you should probably have. 
   - A spare USB drive
-      Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional.
-  - 
+
+      Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional - [Link](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
+  - Compressed Air
+
+      Generally a good idea to have for cleaning the PC and keyboard. Can be bought in store, or use an air compressor.
+  - A backup target
+
+      Anything or anywhere that isnt your computer. Google Drive, Mega, an external hard drive are all good backups.
+      Flash drives and sd cards should not be used as they are made of poor quality flash. All local media will suffer from "bit rot" if they go unsed for several months.
+      Bit rot happens in SSDs that go unpowered as the voltage in the cells degrades due to internal resistance. With hard drives, a similar thing but with magnetism.
