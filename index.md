@@ -19,9 +19,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
-  - [PSU Tier List](https://cultists.network/140/psu-tier-list/)
+  - [Cultists PSU Tier List](https://cultists.network/140/psu-tier-list/)
     - Large tier list for computer power supplies
-  - [SSD List - Google Docs](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4)
+  - [SSD List - Google Sheets](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4)
     - Contains most well known consumer SSDs, contains things like DRAM cache, flash type, etc. 
   - [Why UserBench is Unreliable - Youtube](https://www.youtube.com/watch?v=RQSBj2LKkWg)
     - Yeah, just dont use them, use 3DMark for benchmarking
@@ -31,13 +31,13 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Powerful PC part compatability and price comparing tool, use the sharable link to share your PC
 - ### Benchmarking / Stress Testing:
   - [Furmark](https://geeks3d.com/furmark/)
-    - A well known GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
+    - A popular GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
     - The free version is the "demo" on steam, CPU and GPU benchmark
   - [Prime95 Download](https://www.guru3d.com/files-details/prime95-download.html)
-    - A well known CPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
+    - A popular CPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
   - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-    - Overclocking tool for graphics cards, EVGA Precision X1 reccomended for EVGA cards
+    - Overclocking tool for graphics cards, EVGA Precision X1 reccomended for EVGA cards (RIP EVGA)
   - [Cinebench R23](https://www.maxon.net/en/downloads/cinebench-r23-downloads)
     - CPU Benchmarking tool
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
@@ -53,6 +53,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - A free driver installer that seems to work well, installing the (few) drivers you need manually is still reccomended 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
     - Excellent tools that provide detailed information about your CPU/GPU
+  - [BlueScreenView](https://www.bleepingcomputer.com/download/bluescreenview/)
+    - View past Blue Screen of Death/Bug Check dumps, this provides the error code and the offending drivers/services that likely caused the crash. 
 - ### Other Software:
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
@@ -70,9 +72,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
 - ### USB Booting / Imaging
   - [Medicat](https://medicatusb.com/)
-    - An insane 20GB collecion of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out
+    - An insane 20GB collecion of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out.
   - [Netboot.xyz](https://netboot.xyz/)
-    - Can be used to network boot ISOs (yes, including ventoy ISOs)
+    - Versatile iPXE server, requires a machine/VM to boot the netboot image and host other images.
   - [Ventoy](https://www.ventoy.net/en/download.html)
     - Useful tool for creating bootable USB drives with >1 disk image
   - [MediaCreationTool - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
