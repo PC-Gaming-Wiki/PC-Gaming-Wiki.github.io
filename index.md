@@ -4,16 +4,16 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
 - [Websites](https://pc-gaming-wiki.github.io/#websites)
 - [Benchmarking / Stress Testing](https://pc-gaming-wiki.github.io/#benchmarking--stress-testing)
 - [Informational](https://pc-gaming-wiki.github.io/#informational-software)
-- [Other](https://pc-gaming-wiki.github.io/#other-software)
 - [USB Booting / Imaging](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
 - [Customization](https://pc-gaming-wiki.github.io/#customization-software)
+- [Other](https://pc-gaming-wiki.github.io/#other-software)
 
 
 # Posts & How-To's
 
 - How to use DDU - Link (placeholder)
 
-- Surface level PBO guide for ryzen 5000 - Link (Placeholder)
+- Surface level PBO guide for Ryzen 5000 - Link (Placeholder)
 
 - Medicat tutorial - [Link](https://pc-gaming-wiki.github.io/tutorials/medicat)
 
@@ -24,20 +24,20 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [SSD List - Google Sheets](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4)
     - Contains most well known consumer SSDs, contains things like DRAM cache, flash type, etc. 
   - [Why UserBench is Unreliable - Youtube](https://www.youtube.com/watch?v=RQSBj2LKkWg)
-    - Yeah, just dont use them, use 3DMark for benchmarking
+    - Yeah, just don't use them, use 3DMark for benchmarking
   - [SteamDB](https://steamdb.info/)
     - A third party tool with vast amounts of information on Steam games as well as historical pricing/player count data
   - [PCPartPicker](https://pcpartpicker.com/list/)
-    - Powerful PC part compatability and price comparing tool, use the sharable link to share your PC
+    - Powerful PC part compatibility and price comparing tool, use the sharable link to share your PC
 - ### Benchmarking / Stress Testing:
   - [Furmark](https://geeks3d.com/furmark/)
-    - A popular GPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
+    - A popular GPU burn test, 15-30 minute test length recommended so long as temperatures are safe
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
     - The free version is the "demo" on steam, CPU and GPU benchmark
   - [Prime95 Download](https://www.guru3d.com/files-details/prime95-download.html)
-    - A popular CPU burn test, 15-30 minute test length reccomended so long as temperatures are safe
+    - A popular CPU burn test, 15-30 minute test length recommended so long as temperatures are safe
   - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-    - Overclocking tool for graphics cards, EVGA Precision X1 reccomended for EVGA cards (RIP EVGA)
+    - Overclocking tool for graphics cards, EVGA Precision X1 recommended for EVGA cards (RIP EVGA)
   - [Cinebench R23](https://www.maxon.net/en/downloads/cinebench-r23-downloads)
     - CPU Benchmarking tool
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
@@ -46,18 +46,18 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
     - One of the best S.M.A.R.T monitoring tools.
   - [HWInfo64](https://www.hwinfo.com/download/)
-    - Portable version reccomended, includes system info, and some monitoring
+    - Portable version recommended, includes system info, and some monitoring
   - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
     - Primarily for monitoring temperatures, clock speeds, etc
   - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
-    - A free driver installer that seems to work well, installing the (few) drivers you need manually is still reccomended 
+    - A free driver installer that seems to work well, installing the (few) drivers you need manually is still recommended 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
     - Excellent tools that provide detailed information about your CPU/GPU
   - [BlueScreenView](https://www.bleepingcomputer.com/download/bluescreenview/)
     - View past Blue Screen of Death/Bug Check dumps, this provides the error code and the offending drivers/services that likely caused the crash. 
 - ### USB Booting / Imaging
   - [Medicat](https://medicatusb.com/)
-    - An insane 20GB collecion of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out.
+    - An insane 20GB collection of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out.
   - [Netboot.xyz](https://netboot.xyz/)
     - Versatile iPXE server, requires a machine/VM to boot the netboot image and host other images.
   - [Ventoy](https://www.ventoy.net/en/download.html)
@@ -66,7 +66,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Required to install, or repair windows. Helpful to have one lying around, just in case. 
 - ### Customization Software:
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
-    - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different featuers
+    - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different features
   - [Rainmeter](https://www.rainmeter.net/)
     - Widgets on the desktop!
   - [Lively Wallpaper](https://www.rocksdanister.com/lively/)
@@ -93,7 +93,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
     - Powerful download manager with torrent support and pause/continue downloads
   - [WizTree](https://diskanalyzer.com/)
-    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
-   
+    - Don't know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
+  - [CompactGUI](https://github.com/IridiumIO/CompactGUI)
+    - Uses compact.exe to transparently compress games with a minimal impact on performance.
 
-Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
+
+Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is recommended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
