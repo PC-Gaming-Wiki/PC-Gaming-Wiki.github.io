@@ -55,21 +55,6 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Excellent tools that provide detailed information about your CPU/GPU
   - [BlueScreenView](https://www.bleepingcomputer.com/download/bluescreenview/)
     - View past Blue Screen of Death/Bug Check dumps, this provides the error code and the offending drivers/services that likely caused the crash. 
-- ### Other Software:
-  - [7Zip](https://www.7-zip.org/)
-    - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
-  - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
-    - Useful for finding the fastest DNS server for your area, usually Cloudflare (1.1.1.1) and Google (8.8.8.8) are good enough
-  - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-    - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
-  - [UWPHook - GitHub](https://github.com/BrianLima/UWPHook)
-    - Allows you to add Windows Store apps to your Steam library
-  - [Playnite](https://github.com/JosefNemec/Playnite)
-    - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
-  - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
-    - Powerful download manager with torrent support and pause/continue downloads
-  - [WizTree](https://diskanalyzer.com/)
-    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
 - ### USB Booting / Imaging
   - [Medicat](https://medicatusb.com/)
     - An insane 20GB collecion of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out.
@@ -94,5 +79,21 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - RGB control software that attempts to bridge the gap between different RGB ecosystems
   - [Signal RGB](https://signalrgb.com/)
     - Same as OpenRGB, may or may not be more reliable. YMMV
+- ### Other Software:
+  - [7Zip](https://www.7-zip.org/)
+    - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
+  - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
+    - Useful for finding the fastest DNS server for your area, usually Cloudflare (1.1.1.1) and Google (8.8.8.8) are good enough
+  - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+    - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
+  - [UWPHook - GitHub](https://github.com/BrianLima/UWPHook)
+    - Allows you to add Windows Store apps to your Steam library
+  - [Playnite](https://github.com/JosefNemec/Playnite)
+    - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
+  - [FreeDownloadManager / FDM](https://www.freedownloadmanager.org/)
+    - Powerful download manager with torrent support and pause/continue downloads
+  - [WizTree](https://diskanalyzer.com/)
+    - Dont know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
+   
 
 Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is reccomended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
