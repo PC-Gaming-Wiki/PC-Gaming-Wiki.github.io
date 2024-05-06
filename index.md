@@ -24,9 +24,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [SSD List - Google Sheets](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4)
     - Contains most well known consumer SSDs, contains things like DRAM cache, flash type, etc. 
   - [Why UserBench is Unreliable - Youtube](https://www.youtube.com/watch?v=RQSBj2LKkWg)
-    - Yeah, just don't use them, use 3DMark for benchmarking
-  - [SteamDB](https://steamdb.info/)
-    - A third party tool with vast amounts of information on Steam games as well as historical pricing/player count data
+    - Yeah, just don't use them, use 3DMark/Cinnebench for benchmarking
+  - [SteamDB](https://steamdb.info/) / [ProtonDB](https://www.protondb.com/)
+    - Third party tools with information on player counts, pricing and (ProtonDB) linux compatibility. 
   - [PCPartPicker](https://pcpartpicker.com/list/)
     - Powerful PC part compatibility and price comparing tool, use the sharable link to share your PC
 - ### Benchmarking / Stress Testing:
@@ -43,12 +43,10 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [3DMark - Steam](https://store.steampowered.com/app/223850/3DMark/)
     - CPU and GPU benchmarking tool, free download as a "demo" on steam. Use Time Spy for modern GPUs. 
 - ### Informational Software:
-  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
-    - One of the best S.M.A.R.T monitoring tools.
-  - [HWInfo64](https://www.hwinfo.com/download/)
-    - Portable version recommended, includes system info, and some monitoring
-  - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
-    - Primarily for monitoring temperatures, clock speeds, etc
+  - [CrystalDiskInfo / CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/)
+    - S.M.A.R.T monitoring and synthetic drive read/write speed testing
+  - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) / [HWInfo](https://www.hwinfo.com/download/)
+    - Primarily for monitoring temperatures, clock speeds, etc. HWInfo provides less monitoring and more hardware information. 
   - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
     - A free driver installer that seems to work well, installing the (few) drivers you need manually is still recommended 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
@@ -57,7 +55,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - View past Blue Screen of Death/Bug Check dumps, this provides the error code and the offending drivers/services that likely caused the crash. 
 - ### USB Booting / Imaging
   - [Medicat](https://medicatusb.com/)
-    - An insane 20GB collection of nearly every tool you could ever need for a disaster recovery plan. Though it will cause Windows Defender to freak out.
+    - A vast 20GB collection of nearly every tool you could ever need for disaster recovery. Though it will cause Windows Defender to freak out.
   - [Netboot.xyz](https://netboot.xyz/)
     - Versatile iPXE server, requires a machine/VM to boot the netboot image and host other images.
   - [Ventoy](https://www.ventoy.net/en/download.html)
@@ -75,10 +73,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Customizable taskbar application
   - [Fan Control Software - GitHub](https://github.com/Rem0o/FanControl.Releases)
     - A powerful and lightweight fan control software for Windows
-  - [OpenRGB](https://openrgb.org)
-    - RGB control software that attempts to bridge the gap between different RGB ecosystems
-  - [Signal RGB](https://signalrgb.com/)
-    - Same as OpenRGB, may or may not be more reliable. YMMV
+  - [OpenRGB](https://openrgb.org) / [SignalRGB](https://signalrgb.com/)
+    - RGB software with the aim to combine RGB ecosystems.
 - ### Other Software:
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
