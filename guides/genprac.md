@@ -4,6 +4,12 @@ Maintence is not something that should be obsessed over, but kept in mind. Overd
   - DISM + SFC
     - Run CMD as admin, copy and paste "DISM /Online /Cleanup-Image /RestoreHealth", and then "sfc /scannow"
     - This should be run after major updates, and *maybe* once a month or so
+  - Temp Files
+    - Windows has its own "Disk Cleanup" utility, allowing you to delete among other things, temp files
+    - Similarly, check monthly or so. If you are running out of disk space (this can be harmful to SSDs) then you should probably upgrade the drive or move programs off it.
+  - Malware
+    - Windows Defender is shockingly capable in its current state as an effective anti-virus. You dont really need a dedicated anti-virus, and you especially should not be paying for an anti=virus, much less using active scamming.
+    - Like social engineering and hacking, once again humans are the weak point in the security. Education is far cheaper, and better for PC performance than active scanning. 
   
   - Drivers
     - For the love of god, do not use driver boosters, you dont need them
