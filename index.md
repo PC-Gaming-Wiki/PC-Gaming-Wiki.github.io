@@ -92,6 +92,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Don't know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
   - [CompactGUI](https://github.com/IridiumIO/CompactGUI)
     - Uses compact.exe to transparently compress games with a minimal impact on performance.
+  - [SetUserFTA](https://kolbi.cz/blog/2017/10/25/setuserfta-userchoice-hash-defeated-set-file-type-associations-per-user/)
+    - Manually set File Type Associations for windows. The only way to forcibly do this on consumer platforms, doesnt work with HTML/PDF associations. 
 
 
 Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is recommended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
