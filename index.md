@@ -75,6 +75,8 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - A powerful and lightweight fan control software for Windows
   - [OpenRGB](https://openrgb.org) / [SignalRGB](https://signalrgb.com/)
     - RGB software with the aim to combine RGB ecosystems.
+  - [Winutil](https://github.com/ChrisTitusTech/winutil)
+    - Features easy installation of programs via win-net or chocolatey, as well as privacy, feature, and update toggles. 
 - ### Other Software:
   - [7Zip](https://www.7-zip.org/)
     - The (arguably) best tool for unzipping RARs, TARs, etc on windows. 
