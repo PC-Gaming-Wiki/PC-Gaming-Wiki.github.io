@@ -83,7 +83,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [DNSBenchmark](https://www.grc.com/dns/benchmark.htm)
     - Useful for finding the fastest DNS server for your area, usually Cloudflare (1.1.1.1) and Google (8.8.8.8) are good enough
   - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-    - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games, requires re-authentication every so often.
+    - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games. Note: They use a referral link on GOG purchases
   - [UWPHook - GitHub](https://github.com/BrianLima/UWPHook)
     - Allows you to add Windows Store apps to your Steam library
   - [Playnite](https://github.com/JosefNemec/Playnite)
