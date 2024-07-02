@@ -1,6 +1,6 @@
 # Welcome to the PC Gaming (Discord) Wiki Repo
 
-# File Layout
+## File Layout
 
 ### index.md
 
