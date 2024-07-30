@@ -1,4 +1,4 @@
-Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
+![image](https://github.com/user-attachments/assets/65296e73-53df-452a-8c33-46cfb6ec0b23)Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
 
 ### Table of Contents:
 - [Websites](https://pc-gaming-wiki.github.io/#websites)
@@ -46,7 +46,9 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
   - [CrystalDiskInfo / CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/)
     - S.M.A.R.T monitoring and synthetic drive read/write speed testing
   - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) / [HWInfo](https://www.hwinfo.com/download/)
-    - Primarily for monitoring temperatures, clock speeds, etc. HWInfo provides less monitoring and more hardware information. 
+    - Primarily for monitoring temperatures, clock speeds, etc. HWInfo provides less monitoring and more hardware information.
+  - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+    - FOSS alternative to HWMonitor, supports logging/graph creation. UI similar to HWMontior. 
   - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/)
     - A free driver installer that seems to work well, installing the (few) drivers you need manually is still recommended 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) / [GPU-Z](https://www.techpowerup.com/gpuz/)
