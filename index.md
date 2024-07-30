@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65296e73-53df-452a-8c33-46cfb6ec0b23)Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
+Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
 
 ### Table of Contents:
 - [Websites](https://pc-gaming-wiki.github.io/#websites)
