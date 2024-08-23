@@ -1,4 +1,5 @@
 Welcome to the PC Gaming Wiki! This website will house links and tutorials for the vast amount of useful free software out there on the web. 
+Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
 
 ### Table of Contents:
 - [Websites](https://pc-gaming-wiki.github.io/#websites)
@@ -13,9 +14,7 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
 
 - How to use DDU - Link (placeholder)
 
-- Surface level PBO guide for Ryzen 5000 - Link (Placeholder)
-
-- Medicat tutorial - [Link](https://pc-gaming-wiki.github.io/tutorials/medicat)
+- Medicat tutorial - [Link](https://pc-gaming-wiki.github.io/guides/medicat)
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
@@ -100,4 +99,4 @@ Welcome to the PC Gaming Wiki! This website will house links and tutorials for t
     - Manually set File Type Associations for windows. The only way to forcibly do this on consumer platforms, doesnt work with HTML/PDF associations. 
 
 
-Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is recommended. Links are to the softwares main page unless otherwise noted, downloads for github are found on the right side of the page labeled "Releases". 
+Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is recommended. 
