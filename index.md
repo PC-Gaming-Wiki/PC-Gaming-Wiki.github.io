@@ -28,6 +28,8 @@ Links are to the softwares main page unless otherwise noted, downloads for githu
     - Third party tools with information on player counts, pricing and (ProtonDB) linux compatibility. 
   - [PCPartPicker](https://pcpartpicker.com/list/)
     - Powerful PC part compatibility and price comparing tool, use the sharable link to share your PC
+  - [UUPDump](https://uupdump.net/)
+    - 3rd party that rips windows images and updates for ease of access, these are unmodified copies. 
 - ### Benchmarking / Stress Testing:
   - [Furmark](https://geeks3d.com/furmark/)
     - A popular GPU burn test, 15-30 minute test length recommended so long as temperatures are safe
