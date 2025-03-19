@@ -21,10 +21,10 @@ Maintence is not something that should be obsessed over, but kept in mind. Overd
   - A spare USB drive
 
       Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional - [Link](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
-      For just windows, 16GB is plenty, for medicat, 32GB minimum, but 64GB+ are just as cheap if buying new. 
+      If you just want a windows recovery drive, 16GB is enough. For medicat, 32GB is likely the bare minimum. If you are buying a new flash drive, 64GB+ are likely within a couple dollars of smaller drives, and are generally more worth it. 
   - Compressed Air (Or an electric duster/air compressor if available)
 
-      Generally a good idea to have for cleaning the PC and keyboard. Can be bought in store, or use an air compressor.
+      Generally a good idea to have for cleaning the PC and keyboard. Can be bought in store.
   - A backup target
 
       Anything or anywhere that isnt your computer. Google Drive, Mega, an external hard drive are all good backups.
