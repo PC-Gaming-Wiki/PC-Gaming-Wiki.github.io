@@ -1,26 +1,28 @@
 Maintence is not something that should be obsessed over, but kept in mind. Overdoing things can screw up your PC just as much as doing nothing (mainly with drivers). 
 
 ### General Maintence (Windows)
-  - DISM + SFC
-    - Run CMD as admin, copy and paste "DISM /Online /Cleanup-Image /RestoreHealth", and then "sfc /scannow"
+  - OS Maintence (CHKDSK/SFC/DISM)
+    - `chkdisk c: /f /r /x` Note: this may take several hours depending on hardware, disk type, and disk speed
+    - Run CMD as admin, copy and paste `DISM /Online /Cleanup-Image /RestoreHealth`, and then `sfc /scannow`
     - This should be run after major updates, and *maybe* once a month or so
   - Temp Files
     - Windows has its own "Disk Cleanup" utility, allowing you to delete among other things, temp files
-    - Similarly, check monthly or so. If you are running out of disk space (this can be harmful to SSDs) then you should probably upgrade the drive or move programs off it.
+    - Similarly, check monthly or so. If you are running out of disk space (this can be harmful to SSDs) then you should probably upgrade the drive or move programs off it onto a secondary drive. External (USB) media is not reccomended, however will suffice if nothing else can be done.
   - Malware
-    - Windows Defender is shockingly capable in its current state as an effective anti-virus. You dont really need a dedicated anti-virus, and you especially should not be paying for an anti=virus, much less using active scamming.
+    - Windows Defender is shockingly capable in its current state as an effective anti-virus. You dont really need a dedicated anti-virus, and you especially should not be paying for an antivirus, much less using active scanning.
     - Like social engineering and hacking, once again humans are the weak point in the security. Education is far cheaper, and better for PC performance than active scanning. 
   
   - Drivers
     - For the love of god, do not use driver boosters, you dont need them
     - If there is nothing wrong with the computer, DO NOT UPDATE DRIVERS. 
-    - GPU drivers are the only driver that needs to be updated, how often you update is up to you
+    - GPU drivers are the only driver that needs to be updated, how often you update is up to you. Newer GPUs should be updated more often, older cards are less likely to get beneficial updates and should only be updated if a new game release requires it.
 
 ### Things you should probably have. 
   - A spare USB drive
 
       Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional - [Link](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
-  - Compressed Air
+      For just windows, 16GB is plenty, for medicat, 32GB minimum, but 64GB+ are just as cheap if buying new. 
+  - Compressed Air (Or an electric duster/air compressor if available)
 
       Generally a good idea to have for cleaning the PC and keyboard. Can be bought in store, or use an air compressor.
   - A backup target
