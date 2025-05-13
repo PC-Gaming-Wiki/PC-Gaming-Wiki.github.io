@@ -21,7 +21,7 @@ Maintence is not something that should be obsessed over, but kept in mind. Overd
 ### Things you should probably have. 
   - A spare USB drive
 
-      Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional - [Link](https://pc-gaming-wiki.github.io/#usb-booting--imaging)
+      Extremely helpful for troubleshooting and repairing/reinstalling the OS. Ventoy reccomended, MediCat optional - [Link](https://pc-gaming-wiki.github.io/#usb-booting--imaging).
       If you just want a windows recovery drive, 16GB is enough. For medicat, 32GB is likely the bare minimum. If you are buying a new flash drive, 64GB+ are likely within a couple dollars of smaller drives, and are generally more worth it. 
   - Compressed Air (Or an electric duster/air compressor if available)
 
