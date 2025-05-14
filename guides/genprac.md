@@ -1,6 +1,6 @@
 Maintence is not something that should be obsessed over, but kept in mind. Overdoing things can screw up your PC just as much as doing nothing (mainly with drivers). 
 
-### General Maintence (Windows)
+### General Maintenance (Windows)
   - OS Maintence (CHKDSK/SFC/DISM)
     - `chkdisk c: /f /r /x` Note: this may take several hours depending on hardware, storage capacity of the C drive, storage type, and storage speed
     - Run CMD as admin, copy and paste `DISM /Online /Cleanup-Image /RestoreHealth` let it finish, and then `sfc /scannow`
