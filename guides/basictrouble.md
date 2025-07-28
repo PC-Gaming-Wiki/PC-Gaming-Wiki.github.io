@@ -40,4 +40,4 @@ You can try limiting the power of your GPU to see if that helps the power supply
 ### Blue Screen of Death
 
 Blue screens always provide a stop code. Google that. If it is driver related, it will provide a .sys file generally, reinstall that driver.
-Blue screens are usually driver related, but sometimes things such as corrupt system files can cause it as well. 
+Blue screens are usually driver related, but sometimes things such as corrupt system files can cause it as well. Use [BlueScreenView](https://www.bleepingcomputer.com/download/bluescreenview/) to see what caused the error. Googling the stop code should bring you to microsofts documentation and should indicate where the issue lies. If you are getting several different errors, try finding a common denominator. A majority of the time, a driver issue is going to be the culprit, though not always. 
