@@ -3,7 +3,9 @@
 First, you must establish what exactly is wrong. If this is a prebuilt, and it is still within warranty, try their support first. 
 Their support is likely incopetent but you may as well try. 
 
-This is intended to be for computers that were working, but now no longer work.
+This is intended to be for computers that were working, but now no longer work. 
+
+The first thing you should do gather temperatures of parts while under load. If the parts are throttling, that can cause issues. For example [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) will provide all the temperature sensors on your computer, find the CPU and GPU, start and play a game for 10 or so minutes, and check the maximum temperature each part hit. 
 
 ## My pc is crashing!
 
@@ -15,7 +17,7 @@ The game/program closing? The displays go blank, but the pc stays on? The displa
 Gather any error codes provided by the program and search the internet. Unless its a brand new game, chances are someone else has had the issue you are having.
 Worst case, if there are no error code provided, see if the program has log files. The location of them is somehting likely documented on google as well. 
 Generally, verifying the integrity of the files helps. Other times, its the games fault. It just depends.
-
+Sometimes this can be caused by an unstable overclock or GPU driver.
 
 ### The displays go blank, but the pc stays on
 
@@ -31,7 +33,8 @@ For step number 6, click the button for YOUR graphics card, not necessarily Inte
 
 ### The displays go blank and the PC turns off
 
-This is likely a power issue, and could be a failing power supply. You can test this by running burn tests on the CPU and GPU at the same time, and see if this causes the PC to shut down.
+This is likely a power issue, and could be a failing power supply. You can test this by running burn tests on the CPU and GPU at the same time, and see if this causes the PC to shut down. 
+This can also be indication of a CPU or GPU (severely) throttling. 
 
 Furmark + Prime95 linked [here](https://pc-gaming-wiki.github.io/#benchmarking--stress-testing). If nothing after 30ish minutes, it is likely still the power supply, but its much more illusive. 
 You can try limiting the power of your GPU to see if that helps the power supply. This can be done with MSI afterburner usually. 
