@@ -91,16 +91,19 @@ Links are to the softwares main page unless otherwise noted, downloads for githu
     - Powerful download manager with torrent support and pause/continue downloads
   - [Heroic - GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
     - Epic Games Store + GOG alternative that allows you to bypass needing the EGS installed to play games. Note: They use a referral link on GOG purchases
+  - [Lossless-Cut](https://github.com/mifi/lossless-cut)
+    - Simple tool to cut videos without the need for a traditional video editor. 
   - [Playnite](https://github.com/JosefNemec/Playnite)
     - Aims to bring all your libraries from different launchers into one (similar to what GOG is trying to do)
   - [SetUserFTA](https://kolbi.cz/blog/2017/10/25/setuserfta-userchoice-hash-defeated-set-file-type-associations-per-user/)
     - Manually set File Type Associations for windows. The only way to forcibly do this on consumer platforms, doesnt work with HTML/PDF associations. 
   - [UWPHook - GitHub](https://github.com/BrianLima/UWPHook)
     - Allows you to add Windows Store apps to your Steam library
-  - [WizTree](https://diskanalyzer.com/)
-    - Don't know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
   - [VLC](https://www.videolan.org/vlc/)
     - One of the best video players out there, all for free.
+  - [WizTree](https://diskanalyzer.com/)
+    - Don't know whats eating up disk space? WizTree read the Master File Table of NTFS drives making it dramatically faster than WinDirStat.
+
    
   
 Disclaimer: None of these resources are owned or operated by us. We are at the mercy of these developers to provide safe downloads. An adblocker is a good idea for browsing the modern web, Ublock Origin is recommended. 
