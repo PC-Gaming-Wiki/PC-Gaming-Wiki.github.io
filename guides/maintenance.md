@@ -4,7 +4,7 @@ Maintence is not something that should be obsessed over, but kept in mind. Overd
   - OS Maintence (CHKDSK/SFC/DISM)
     - `chkdisk c: /f /r /x` Note: this may take several hours depending on hardware, storage capacity of the C drive, storage type, and storage speed
     - Run CMD as admin, copy and paste `DISM /Online /Cleanup-Image /RestoreHealth` let it finish, and then `sfc /scannow`
-    - This should be run after major updates, and *maybe* once a month or so
+    - This should be run infrequently, *maybe* once every couple months or just after major updates to make sure nothing is corrupt
   - Temp Files
     - Windows has its own "Disk Cleanup" utility, allowing you to delete among other things, temp files
     - Similarly, check monthly or so. If you are running out of disk space (this can be harmful to SSDs) then you should probably upgrade the drive or move programs off it onto a secondary drive. External (USB) media is not reccomended, however will suffice if nothing else can be done.
