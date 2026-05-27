@@ -73,7 +73,7 @@ Links are to the softwares main page unless otherwise noted, downloads for githu
   - [Microsoft PowerToys - Github](https://github.com/microsoft/PowerToys)
     - A first-ish party tool (maintained by Microsoft Employees) that adds numerous different features
   - [OpenRGB](https://openrgb.org) / [SignalRGB](https://signalrgb.com/)
-    - RGB software with the aim to combine RGB ecosystems.
+    - RGB software with the aim to combine RGB ecosystems. SignalRGB is propritary and offers a paid subscription for additional features.
   - [Rainmeter](https://www.rainmeter.net/)
     - Widgets on the desktop!
   - [TranslucentTB](https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9)
