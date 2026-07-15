@@ -18,6 +18,8 @@ Links are to the softwares main page unless otherwise noted, downloads for githu
 
 # Helpful Software & Links - All Free to Access and Use
 - ### Websites:
+  - [BottleneckPC](https://bottleneckpc.com/)
+    - Free bottleneck checker that gives an honest performance range instead of a single made-up percentage, plus PSU calculator and other build tools. No account needed.
   - [Cultists PSU Tier List](https://cultists.network/140/psu-tier-list/)
     - Large tier list for computer power supplies
   - [PCPartPicker](https://pcpartpicker.com/list/)
